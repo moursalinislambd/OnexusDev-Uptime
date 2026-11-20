@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a domain and add your repo name there
   baseUrl: /OnexusDev-Uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://onexusdev.xyz/wp-content/uploads/2026/02/Untitled-1.png.webp
   name: OnexusDev Status
   introTitle: "**OnexusDev Uptime** is our open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Real-time uptime monitoring and status updates for our web properties powered by GitHub and OnexusDev.
