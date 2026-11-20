@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: OnexusDev Status
   introTitle: "**OnexusDev Uptime** is our open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Real-time uptime monitoring and status updates for our web properties powered by GitHub Actions, Issues, and Pages.
+  introMessage: Real-time uptime monitoring and status updates for our web properties powered by GitHub and OnexusDev.
   navbar:
     - title: Status
       href: /OnexusDev-Uptime/
